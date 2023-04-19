@@ -1,3 +1,5 @@
 Arquivo de testes para git
 
 Adicionadas novas informações
+
+Teste repositório remoto
